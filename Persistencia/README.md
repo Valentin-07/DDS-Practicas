@@ -2,11 +2,7 @@
  Practica de persistencia de datos.
 
 Participantes:
-- Garcia, Fernando
-- Rocchetta, Luciano
-- Lavia, Candela
-- Juan Sartori, Bruno
-- Negrete, Joaquín
+- Diaz Arrua, Jose Valentin
 
 *Objetivo: Persistir las clases de dominio en una base de datos relacional.
 
